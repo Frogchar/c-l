@@ -12,3 +12,4 @@ ribbon:
 logging:
   level:
     com.atguigu.springcloud.service.PaymentFeignService: debug
+
